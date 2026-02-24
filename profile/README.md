@@ -1,12 +1,25 @@
-## Hi there 👋
+# VeloxiaMC
 
-<!--
+VeloxiaMC is a high-performance **Minecraft: Bedrock Edition (MCBE)** server network focused on delivering competitive gameplay, stable infrastructure, and a smooth player experience. Our goal is to provide a well-optimized and professionally managed environment for all players.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Game Modes
+
+* SkyBlock
+* Survival
+* Factions
+* Murder Mystery
+* BedWars
+
+---
+
+## Why Veloxia?
+
+* Optimized network infrastructure with low latency
+* Stable and scalable server architecture
+* Custom-developed plugins and systems
+* Active development and continuous improvements
+* Professional and responsive management team
+
+---
